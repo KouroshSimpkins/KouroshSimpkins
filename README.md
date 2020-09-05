@@ -1,6 +1,17 @@
-### Hi there 👋
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=KouroshSimpkins&column=7"/>
+</a>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=KouroshSimpkins&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KouroshSimpkins&layout=compact" />
+</div>
 
 <!--
-**KouroshSimpkins/KouroshSimpkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KouroshSimpkins)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+<summary><b>more detail</b></summary>
+  
